@@ -1,0 +1,8 @@
+{
+  "Badland" : {
+    "password" : "test"
+  },
+  "admin" : {
+    "password" : "admin"
+  }
+}
